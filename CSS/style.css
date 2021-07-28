@@ -1,0 +1,219 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+section{
+    height: 700px;
+    margin-bottom: 50px;
+}
+/* order food css style */
+#orderFood{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.halfWidth{
+    width: 50%;
+    float: left;
+    height: 500px;
+}
+
+.orderFoodInner h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #575757;
+    margin-top: 170px;
+    letter-spacing: -0.02em;
+    line-height: 65px;
+}
+
+.orderFoodInner p {
+    font-size: 17px;
+    color: #828282;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+}
+
+.customBtn{
+    color: #ffff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 25px;
+    padding: 15px 30px;
+    border-radius: 43px;
+    background-image: linear-gradient(50deg, #FBA24F, #FF1E1E);
+    border: none;
+    cursor: pointer;
+
+}
+
+.orderFoodImg img{
+    width: 611.26px;
+    height: 700.23px;
+}
+/* order food css style end */
+
+/* about me css style */
+#aboutMe{
+    background: url(/images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding: 80px;
+    height: 500px !important;
+}
+
+.aboutMe{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.aboutMeImg img{
+    width: 66%;
+}
+
+.aboutMeInner{
+    margin-left: 48px;
+}
+
+.aboutMeInner h1{
+    font-size: 40px;
+    color: #707070;
+    margin-top: 65px;
+    line-height: 54px;
+}
+
+.aboutMeInner p{
+    line-height: 27px;
+    color: #18191F;
+    font-weight: 400;
+}
+/* about me css style end */
+
+/* recipes css style */
+#recipes{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.recipesInner{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.recipesInner h1{
+    color: #676767;
+    font-size: 35px;
+    line-height: 40px;
+}
+
+.recipesInner p{
+    color: #252525;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.recipesCard{
+    float: left;
+    width: 30%;
+    margin-left:3% ;
+
+}
+
+.recipesCardInner{
+    padding: 13px;
+    box-shadow: 69px 0px 65px 1px #00000029;
+    border-radius: 24px;
+    height: 460px;
+}
+
+.recipesCardInner img {
+    width: 100%;
+    border-radius: 18px;
+    height: 270px;
+}
+
+.recipesCardInner h3{
+    color: #18191F;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.recipesCardInner p{
+   color: #18191F;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+}
+/* recipes css style end*/
+
+/* online store css style */
+#onlineStore{
+    height: 550px !important;
+    margin-bottom: 0px !important;
+}
+
+.onlineStoreInner{
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.onlineStoreInner h1{
+    color: #676767;
+    font-size: 35px;
+    line-height: 40px;
+}
+
+.onlineStoreCard{
+    float: left;
+    width: 30%;
+    margin-left:3% ;
+    margin-top: 50px;
+}
+
+.onlineStoreCard h3{
+    color: #18191F;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.onlineStoreCard p{
+   color: #18191F;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.border{
+    border: 1px solid #ff7b00;
+    width: 93px;
+    margin-left: 46%;
+    margin-top: -16px;
+}
+/* online store css style */
+
+/* footer css style  */
+footer{
+    background-color: #0b0d17;
+    padding: 40px;
+    text-align: center;
+}
+
+footer h1{
+    color: #5B5B5B;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+footer h1 span{
+    color: #FBA24F;
+}
+
+footer p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+}
+/* footer css style end */
